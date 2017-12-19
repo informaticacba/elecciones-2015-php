@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departamentos>
+  <MEDELLIN>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>2161 de 4062</mesas>
+      <votantes>1486004 de 1486004</votantes>
+      <voto_blanco>23153</voto_blanco>
+      <votos_nulos>22297</votos_nulos>
+    </datos>
+  </MEDELLIN>
+  <BARRANQUILLA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>1391 de 2866</mesas>
+      <votantes>1009618 de 1009618</votantes>
+      <voto_blanco>26110</voto_blanco>
+      <votos_nulos>26684</votos_nulos>
+    </datos>
+  </BARRANQUILLA>
+  <CARTAGENA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>1102 de 2025</mesas>
+      <votantes>722004 de 722004</votantes>
+      <voto_blanco>9931</voto_blanco>
+      <votos_nulos>9722</votos_nulos>
+    </datos>
+  </CARTAGENA>
+  <TUNJA>
+    <datos>
+      <boletin>0002</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:15:00</hora>
+      <mesas>316 de 316</mesas>
+      <votantes>116448 de 116448</votantes>
+      <voto_blanco>948</voto_blanco>
+      <votos_nulos>316</votos_nulos>
+    </datos>
+  </TUNJA>
+  <MANIZALES>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>909 de 909</mesas>
+      <votantes>321294 de 321294</votantes>
+      <voto_blanco>2727</voto_blanco>
+      <votos_nulos>909</votos_nulos>
+    </datos>
+  </MANIZALES>
+  <POPAYAN>
+    <datos>
+      <boletin>0003</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:20:00</hora>
+      <mesas>617 de 617</mesas>
+      <votantes>220562 de 220562</votantes>
+      <voto_blanco>1851</voto_blanco>
+      <votos_nulos>617</votos_nulos>
+    </datos>
+  </POPAYAN>
+  <VALLEDUPAR>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>355 de 767</mesas>
+      <votantes>273561 de 273561</votantes>
+      <voto_blanco>2869</voto_blanco>
+      <votos_nulos>2860</votos_nulos>
+    </datos>
+  </VALLEDUPAR>
+  <MONTERIA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>480 de 839</mesas>
+      <votantes>299681 de 299681</votantes>
+      <voto_blanco>4879</voto_blanco>
+      <votos_nulos>4822</votos_nulos>
+    </datos>
+  </MONTERIA>
+  <BOGOTA._D.C.>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>6372 de 13281</mesas>
+      <votantes>5453086 de 5453086</votantes>
+      <voto_blanco>19116</voto_blanco>
+      <votos_nulos>6372</votos_nulos>
+    </datos>
+  </BOGOTA._D.C.>
+  <QUIBDO>
+    <datos>
+      <boletin>0003</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:20:00</hora>
+      <mesas>234 de 234</mesas>
+      <votantes>79259 de 79259</votantes>
+      <voto_blanco>702</voto_blanco>
+      <votos_nulos>234</votos_nulos>
+    </datos>
+  </QUIBDO>
+  <NEIVA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>365 de 698</mesas>
+      <votantes>251764 de 251764</votantes>
+      <voto_blanco>5600</voto_blanco>
+      <votos_nulos>5631</votos_nulos>
+    </datos>
+  </NEIVA>
+  <SANTA_MARTA>
+    <datos>
+      <boletin>0005</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>477 de 885</mesas>
+      <votantes>317780 de 317780</votantes>
+      <voto_blanco>6092</voto_blanco>
+      <votos_nulos>5692</votos_nulos>
+    </datos>
+  </SANTA_MARTA>
+  <PASTO>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>416 de 791</mesas>
+      <votantes>278448 de 278448</votantes>
+      <voto_blanco>4512</voto_blanco>
+      <votos_nulos>4736</votos_nulos>
+    </datos>
+  </PASTO>
+  <PEREIRA>
+    <datos>
+      <boletin>0004</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>676 de 1085</mesas>
+      <votantes>388084 de 388084</votantes>
+      <voto_blanco>2028</voto_blanco>
+      <votos_nulos>676</votos_nulos>
+    </datos>
+  </PEREIRA>
+  <CUCUTA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>1058 de 1518</mesas>
+      <votantes>540734 de 540734</votantes>
+      <voto_blanco>9249</voto_blanco>
+      <votos_nulos>9566</votos_nulos>
+    </datos>
+  </CUCUTA>
+  <ARMENIA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>612 de 689</mesas>
+      <votantes>245103 de 245103</votantes>
+      <voto_blanco>1836</voto_blanco>
+      <votos_nulos>612</votos_nulos>
+    </datos>
+  </ARMENIA>
+  <BUCARAMANGA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>848 de 1428</mesas>
+      <votantes>493802 de 493802</votantes>
+      <voto_blanco>11234</voto_blanco>
+      <votos_nulos>11160</votos_nulos>
+    </datos>
+  </BUCARAMANGA>
+  <SINCELEJO>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>281 de 540</mesas>
+      <votantes>193233 de 193233</votantes>
+      <voto_blanco>3573</voto_blanco>
+      <votos_nulos>3573</votos_nulos>
+    </datos>
+  </SINCELEJO>
+  <IBAGUE>
+    <datos>
+      <boletin>0005</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>1090 de 1090</mesas>
+      <votantes>388980 de 388980</votantes>
+      <voto_blanco>3270</voto_blanco>
+      <votos_nulos>1090</votos_nulos>
+    </datos>
+  </IBAGUE>
+  <CALI>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>4414 de 4414</mesas>
+      <votantes>1611391 de 1611391</votantes>
+      <voto_blanco>13242</voto_blanco>
+      <votos_nulos>4414</votos_nulos>
+    </datos>
+  </CALI>
+  <ARAUCA>
+    <datos>
+      <boletin>0005</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>186 de 186</mesas>
+      <votantes>66150 de 66150</votantes>
+      <voto_blanco>558</voto_blanco>
+      <votos_nulos>186</votos_nulos>
+    </datos>
+  </ARAUCA>
+  <FLORENCIA>
+    <datos>
+      <boletin>0005</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>316 de 316</mesas>
+      <votantes>114199 de 114199</votantes>
+      <voto_blanco>948</voto_blanco>
+      <votos_nulos>316</votos_nulos>
+    </datos>
+  </FLORENCIA>
+  <YOPAL>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>141 de 290</mesas>
+      <votantes>99400 de 99400</votantes>
+      <voto_blanco>1011</voto_blanco>
+      <votos_nulos>978</votos_nulos>
+    </datos>
+  </YOPAL>
+  <RIOHACHA>
+    <datos>
+      <boletin>0005</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>131 de 316</mesas>
+      <votantes>107380 de 107380</votantes>
+      <voto_blanco>1827</voto_blanco>
+      <votos_nulos>1966</votos_nulos>
+    </datos>
+  </RIOHACHA>
+  <INIRIDA>
+    <datos>
+      <boletin>0004</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>40 de 54</mesas>
+      <votantes>18210 de 18210</votantes>
+      <voto_blanco>120</voto_blanco>
+      <votos_nulos>40</votos_nulos>
+    </datos>
+  </INIRIDA>
+  <VILLAVICENCIO>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>924 de 936</mesas>
+      <votantes>330274 de 330274</votantes>
+      <voto_blanco>2772</voto_blanco>
+      <votos_nulos>924</votos_nulos>
+    </datos>
+  </VILLAVICENCIO>
+  <SAN_JOSE_DEL_GUAVIARE>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>56 de 110</mesas>
+      <votantes>37297 de 37297</votantes>
+      <voto_blanco>567</voto_blanco>
+      <votos_nulos>555</votos_nulos>
+    </datos>
+  </SAN_JOSE_DEL_GUAVIARE>
+  <LETICIA>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>50 de 100</mesas>
+      <votantes>34044 de 34044</votantes>
+      <voto_blanco>433</voto_blanco>
+      <votos_nulos>535</votos_nulos>
+    </datos>
+  </LETICIA>
+  <MOCOA>
+    <datos>
+      <boletin>0003</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:20:00</hora>
+      <mesas>102 de 102</mesas>
+      <votantes>34221 de 34221</votantes>
+      <voto_blanco>306</voto_blanco>
+      <votos_nulos>102</votos_nulos>
+    </datos>
+  </MOCOA>
+  <MITU>
+    <datos>
+      <boletin>0006</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:35:00</hora>
+      <mesas>24 de 48</mesas>
+      <votantes>15227 de 15227</votantes>
+      <voto_blanco>72</voto_blanco>
+      <votos_nulos>24</votos_nulos>
+    </datos>
+  </MITU>
+  <PUERTO_CARREÑO>
+    <datos>
+      <boletin>0005</boletin>
+      <dia>21-10-2015</dia>
+      <hora>20:30:00</hora>
+      <mesas>53 de 53</mesas>
+      <votantes>16922 de 16922</votantes>
+      <voto_blanco>159</voto_blanco>
+      <votos_nulos>53</votos_nulos>
+    </datos>
+  </PUERTO_CARREÑO>
+  <PROVIDENCIA>
+    <datos>
+      <boletin>0008</boletin>
+      <dia>24-10-2015</dia>
+      <hora>18:35:45</hora>
+      <mesas>13 de 4062</mesas>
+      <votantes>1104 de 1486004</votantes>
+      <voto_blanco>261</voto_blanco>
+      <votos_nulos>174</votos_nulos>
+    </datos>
+  </PROVIDENCIA>
+</departamentos>

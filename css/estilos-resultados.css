@@ -1,0 +1,354 @@
+#resultados {
+	width: 970px;
+	/*margin: 0px;*/
+	padding: 0px;
+	/*float: left;*/
+	height: auto;
+	font-weight: 300;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color:#222;
+	margin: 0 auto;
+}
+#resultados #navRes {
+	margin: 0;
+    width: 970px;
+    float: left;
+    height: 35px;
+	border-top: 1px solid #AF1016;
+	background-image: -webkit-linear-gradient(270deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(252,252,252,1.00) 0%,rgba(240,240,240,1.00) 100%);
+	font-size: 18px;
+}
+#resultados #navRes h2 {
+	padding: 10px;
+	float: left;
+	background-color: #AF1016;
+	text-shadow: 0px 0px #FFFFFF;
+	text-align: left;
+	height: 15px;
+	margin: 0;
+	line-height: 15px;
+	color: #FFFFFF;
+	font-weight: 700;
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+#resultados #navRes #principal {
+	padding: 10px;
+	float: left;
+	height: 15px;
+	margin: 0;
+	list-style-type: none;
+}
+#resultados #navRes #principal li {
+	float: left;
+	height: 15px;
+	line-height: 15px;
+	padding: 0 10px;
+	border-right: 1px solid #e4e2e2;
+	border-left: 1px solid #FFFFFF;
+	cursor: pointer;
+	position: relative;
+	display: block;
+}
+#resultados #navRes #principal li:hover {
+	font-weight:700;
+	color:#AF1016;
+}
+#resultados #navRes #principal li .subPri {
+	margin: 0;
+	padding: 0 10px 10px;
+	float: left;
+	position: absolute;
+	display: none;
+	left: -1px;
+	top: 25px;
+	background-color: #E4E2E2;
+	width: 140px;
+	font-size: 16px;
+	border-radius: 0 0 4px 4px;
+}
+#resultados #navRes #principal li .subPri li {
+	display: block;
+    padding: 10px 0;
+    background: none;
+    border: none;
+    float: none;
+    border-bottom: 1px solid #DCDCDC;
+    border-top: 1px solid #E8E8E8;
+	font-weight:300;
+	color:#222;
+}
+#resultados #navRes #principal li .subPri li:hover {
+	text-decoration:underline;
+}
+#resultados #winRes {
+	padding: 15px 0;
+	float: left;
+	width: 970px;
+	position: relative;
+}
+#resultados #winRes .boxRes {
+	width: 950px;
+	padding: 10px 10px 0;
+	float:left;
+	clear:both;
+	position: absolute;
+	display:none;
+}
+#resultados #winRes .boxRes .subNav {
+	width:950px;
+	height:38px;
+	float:left;
+	clear:both;
+}
+#resultados #winRes .boxRes .subNav h3 {
+	float: left;
+	text-align: left;
+	margin: 0;
+	color: #222;
+	font-weight: 300;
+	font-size: 18px;
+	height:38px;
+	line-height:38px;
+}
+#resultados #winRes .boxRes .subNav h3 strong {
+	color:#AF1016;
+}
+#resultados #winRes .boxRes .subNav span {
+	height: 38px;
+	display: block;
+	float: right;
+	line-height: 38px;
+	background-color: #AF1016;
+	font-weight: 300;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	padding-right: 10px;
+	border-radius: 3px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+#resultados #winRes .boxRes .dataGen {
+	width: 950px;
+	float: left;
+	clear: both;
+	margin-top: 25px;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo {
+	width: 940px;
+	margin: 0;
+	padding: 15px 0;
+	height: 40px;
+	float: left;
+	clear: both;
+	border-top: 1px solid #e0e0e0;
+	border-bottom: 1px solid #e0e0e0;
+	list-style-type: none;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li {
+	float: left;
+	height: 40px;
+	padding: 0 21px;
+	border-right: 1px solid #e0e0e0;
+	margin: 0;
+	list-style-type: none;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li span {
+	width: 100%;
+	height: 15px;
+	display: block;
+	float: left;
+	clear: both;
+	line-height: 15px;
+	font-size: 15px;
+	color: #AF1016;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li .data {
+	width: 100%;
+	display: block;
+	float: left;
+	clear: both;
+	margin: 4px 0 0;
+	padding: 0;
+	height: 21px;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li .data li {
+	font-weight: 700;
+	font-size: 28px;
+	color: #222;
+	padding: 0;
+	height: 21px;
+	border: none;
+	line-height: 21px;
+	display: block;
+	float: left;
+}
+#resultados #winRes .boxRes .dataGen .dataConteo li .data .medium {
+	margin: 0 4px;
+	font-size: 18px;
+	line-height: 27px;
+}
+#resultados #winRes .boxRes .barras {
+	margin-top: 25px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 0;
+	padding-top: 85px;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-bottom: 0;
+	width: 960px;
+	display: block;
+	float: left;
+	clear: both;
+	list-style-type: none;
+	background-image: url(../img/separador-horizontal.png);
+	background-position: left 85px;
+	background-repeat: no-repeat;
+}
+#resultados #winRes .boxRes  .barras li {
+	margin: 0 5px;
+	display: block;
+	float: left;
+}
+#resultados #winRes .boxRes .barras li .screenBar {
+	height: 124px;
+	min-width: 96px;
+	padding-bottom: 1px;
+	position: relative;
+}
+#resultados #winRes .boxRes .barras li .screenBar .barra {
+	width: 90%;
+	height: 50%;
+	margin-left: 5%;
+	margin-right: 5%;
+	position: absolute;
+	bottom: 1px;
+	background-color: #9C2A2C;
+}
+/*caja con puntero*/
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo {
+	position: absolute;
+	border: 1px solid #DDDDDD;
+	width: 46px;
+	padding: 10px;
+	top:-90px;
+	left: 50%;
+	margin-left: -40%;
+	border-radius: 4px;
+	background-image: -webkit-linear-gradient(270deg,rgba(236,236,236,1.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(236,236,236,1.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(236,236,236,1.00) 0%,rgba(255,255,255,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(236,236,236,1.00) 0%,rgba(255,255,255,1.00) 100%);
+}
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo:after, #resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo:before {
+	top: 100%;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo:after {
+	border-color: rgba(241, 241, 241, 0);
+	border-top-color: #fff;
+	border-width: 7px;
+	margin-left: -7px;
+}
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo:before {
+	border-color: rgba(221, 221, 221, 0);
+	border-top-color: #DDDDDD;
+	border-width: 8px;
+	margin-left: -8px;
+}
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo li {
+	width: 100%;
+	text-align: center;
+	margin: 0 !important;
+}
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo .porcentaje {
+	font-size: 18px;
+	font-weight: 700;
+	border-bottom: 2px solid #AF1016;
+	padding-bottom: 5px;
+	line-height: 16px;
+}
+#resultados #winRes .boxRes .barras li .screenBar .barra .barraInfo .votos {
+	font-size: 16px;
+	line-height: 16px;
+	padding-top: 3px;
+}
+#resultados #winRes .boxRes .barras li .infoCandi {
+	min-width: 96px;
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-bottom: 9px;
+    border-bottom: 1px solid #E8E8E8;
+}
+#resultados #winRes .boxRes .barras li .infoCandi img {
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	display: block;
+}
+#resultados #winRes .boxRes .barras li .infoCandi span {
+	display: block;
+	float: left;
+	clear: both;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 700;
+	width: 100%;
+	padding: 5px 0;
+    line-height: 18px;
+    border-bottom: 1px solid #E8E8E8;
+    margin-bottom: 6px;
+}
+/*estlis especiales*/
+/*para 8 candidatos*/
+#resultados #winRes #alcCar #alcData .barras li {
+	margin: 0 12px;
+}
+/*para 6 candidatos*/
+#resultados #winRes #alcMon #alcData .barras li {
+	margin: 0 32px;
+}
+/*para 5 candidatos*/
+#resultados #winRes #alcSan #alcData .barras li, #resultados #winRes #gobSan #gobData .barras li, #resultados #winRes #alcSin #alcData .barras li {
+	margin: 0 48px;
+}
+/*para 4 candidatos*/
+#resultados #winRes #gobAtl #gobData .barras, #resultados #winRes #alcRio #alcData .barras, #resultados #winRes #gobSuc #gobData .barras {
+	padding-left: 93px;
+	padding-right: 93px;
+	width: 784px;
+}
+#resultados #winRes #gobAtl #gobData .barras li, #resultados #winRes #alcRio #alcData .barras li, #resultados #winRes #gobSuc #gobData .barras li {
+	margin: 0 50px;
+}
+/*para 3 candidatos*/
+#resultados #winRes #gobBol #gobData .barras, #resultados #winRes #gobCes #gobData .barras, #resultados #winRes #gobCor #gobData .barras, #resultados #winRes #gobMag #gobData .barras {
+	padding-left: 191px;
+	padding-right: 191px;
+	width: 588px;
+}
+#resultados #winRes #gobBol #gobData .barras li, #resultados #winRes #gobCes #gobData .barras li, #resultados #winRes #gobCor #gobData .barras li, #resultados #winRes #gobMag #gobData .barras li {
+	margin: 0 50px;
+}
+/*para 2 candidatos*/
+#resultados #winRes #alcBar #alcData .barras, #resultados #winRes #gobGua #gobData .barras, #resultados #winRes #alcPro #alcData .barras {
+	padding-left: 289px;
+	padding-right: 289px;
+	width: 392px;
+}
+#resultados #winRes #alcBar #alcData .barras li, #resultados #winRes #gobGua #gobData .barras li, #resultados #winRes #alcPro #alcData .barras li {
+	margin: 0 50px;
+}

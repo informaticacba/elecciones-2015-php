@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Consolidado>
+
+
+<Avance>
+	<Numero V="0009"/> 
+	<Boletin V="0008"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="56"/> 
+	<Desc_Departamento V="SAN ANDRES"/> 
+	<Municipio V="004"/> 
+	<Desc_Municipio V="PROVIDENCIA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="24"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="18"/> 
+	<Minuto V="46"/> 
+	<Seg V="45"/> 
+	<Mesas_Instaladas V="13"/> 
+	<Mesas_Informadas V="13"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="4297"/> 
+	<Total_Sufragantes V="1104"/> 
+	<Porc_Sufragantes V="025,69"/> 
+	<Votos_Nulos V="174"/> 
+	<Porc_Votos_Nulos V="015,76"/> 
+	<Votos_No_Marcados V="191"/> 
+	<Porc_Votos_No_Marcados V="017,30"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="024"/> 
+				<Votos V="256"/> 
+				<Porc V="034,64"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="072"/> 
+				<Votos V="222"/> 
+				<Porc V="030,04"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="478"/> 
+				<Porc V="064,68"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="261"/> 
+				<Porc V="035,31"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="739"/> 
+				<Porc V="066,93"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="5600400"/> 
+				<Candidato V="001"/> 
+				<Votos V="256"/> 
+				<Porc V="034,64"/> 
+				<Partido V="024"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5600400"/> 
+				<Candidato V="002"/> 
+				<Votos V="222"/> 
+				<Porc V="030,04"/> 
+				<Partido V="072"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+</Consolidado>

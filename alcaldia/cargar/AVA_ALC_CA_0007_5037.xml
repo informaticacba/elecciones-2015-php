@@ -1,0 +1,4368 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Consolidado>
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="01"/> 
+	<Desc_Departamento V="ANTIOQUIA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="MEDELLIN"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="4062"/> 
+	<Mesas_Informadas V="2161"/> 
+	<Porc_Mesas_Informadas V="053,20"/> 
+	<Potencial_Sufragantes V="1486004"/> 
+	<Total_Sufragantes V="207786"/> 
+	<Porc_Sufragantes V="013,98"/> 
+	<Votos_Nulos V="22297"/> 
+	<Porc_Votos_Nulos V="010,73"/> 
+	<Votos_No_Marcados V="23447"/> 
+	<Porc_Votos_No_Marcados V="011,28"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="078"/> 
+				<Votos V="23380"/> 
+				<Porc V="014,42"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="053"/> 
+				<Votos V="23337"/> 
+				<Porc V="014,40"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="255"/> 
+				<Votos V="23263"/> 
+				<Porc V="014,35"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="23070"/> 
+				<Porc V="014,23"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="22924"/> 
+				<Porc V="014,14"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="22915"/> 
+				<Porc V="014,14"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="138889"/> 
+				<Porc V="085,71"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="23153"/> 
+				<Porc V="014,28"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="162042"/> 
+				<Porc V="077,98"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="0100100"/> 
+				<Candidato V="005"/> 
+				<Votos V="23380"/> 
+				<Porc V="014,42"/> 
+				<Partido V="078"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0100100"/> 
+				<Candidato V="002"/> 
+				<Votos V="23337"/> 
+				<Porc V="014,40"/> 
+				<Partido V="053"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0100100"/> 
+				<Candidato V="001"/> 
+				<Votos V="23263"/> 
+				<Porc V="014,35"/> 
+				<Partido V="255"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0100100"/> 
+				<Candidato V="004"/> 
+				<Votos V="23070"/> 
+				<Porc V="014,23"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0100100"/> 
+				<Candidato V="006"/> 
+				<Votos V="22924"/> 
+				<Porc V="014,14"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0100100"/> 
+				<Candidato V="003"/> 
+				<Votos V="22915"/> 
+				<Porc V="014,14"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="03"/> 
+	<Desc_Departamento V="ATLANTICO"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="BARRANQUILLA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="2866"/> 
+	<Mesas_Informadas V="1391"/> 
+	<Porc_Mesas_Informadas V="048,53"/> 
+	<Potencial_Sufragantes V="1009618"/> 
+	<Total_Sufragantes V="131513"/> 
+	<Porc_Sufragantes V="013,02"/> 
+	<Votos_Nulos V="26684"/> 
+	<Porc_Votos_Nulos V="020,29"/> 
+	<Votos_No_Marcados V="26661"/> 
+	<Porc_Votos_No_Marcados V="020,27"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="108"/> 
+				<Votos V="26388"/> 
+				<Porc V="033,75"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="25670"/> 
+				<Porc V="032,83"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="52058"/> 
+				<Porc V="066,59"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="26110"/> 
+				<Porc V="033,40"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="78168"/> 
+				<Porc V="059,43"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="0300100"/> 
+				<Candidato V="002"/> 
+				<Votos V="26388"/> 
+				<Porc V="033,75"/> 
+				<Partido V="108"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0300100"/> 
+				<Candidato V="001"/> 
+				<Votos V="25670"/> 
+				<Porc V="032,83"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="05"/> 
+	<Desc_Departamento V="BOLIVAR"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="CARTAGENA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="2025"/> 
+	<Mesas_Informadas V="1102"/> 
+	<Porc_Mesas_Informadas V="054,41"/> 
+	<Potencial_Sufragantes V="722004"/> 
+	<Total_Sufragantes V="107683"/> 
+	<Porc_Sufragantes V="014,91"/> 
+	<Votos_Nulos V="9722"/> 
+	<Porc_Votos_Nulos V="009,02"/> 
+	<Votos_No_Marcados V="10020"/> 
+	<Porc_Votos_No_Marcados V="009,30"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="011"/> 
+				<Votos V="9958"/> 
+				<Porc V="011,32"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="9941"/> 
+				<Porc V="011,30"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="014"/> 
+				<Votos V="9925"/> 
+				<Porc V="011,28"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="044"/> 
+				<Votos V="9802"/> 
+				<Porc V="011,14"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="9734"/> 
+				<Porc V="011,06"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="825"/> 
+				<Votos V="9728"/> 
+				<Porc V="011,06"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="9561"/> 
+				<Porc V="010,87"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="9361"/> 
+				<Porc V="010,64"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="78010"/> 
+				<Porc V="088,70"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="9931"/> 
+				<Porc V="011,29"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="87941"/> 
+				<Porc V="081,66"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="004"/> 
+				<Votos V="9958"/> 
+				<Porc V="011,32"/> 
+				<Partido V="011"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="003"/> 
+				<Votos V="9941"/> 
+				<Porc V="011,30"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="008"/> 
+				<Votos V="9925"/> 
+				<Porc V="011,28"/> 
+				<Partido V="014"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="007"/> 
+				<Votos V="9802"/> 
+				<Porc V="011,14"/> 
+				<Partido V="044"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="002"/> 
+				<Votos V="9734"/> 
+				<Porc V="011,06"/> 
+				<Partido V="002"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="006"/> 
+				<Votos V="9728"/> 
+				<Porc V="011,06"/> 
+				<Partido V="825"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="005"/> 
+				<Votos V="9561"/> 
+				<Porc V="010,87"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0500100"/> 
+				<Candidato V="001"/> 
+				<Votos V="9361"/> 
+				<Porc V="010,64"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0003"/> 
+	<Boletin V="0002"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="07"/> 
+	<Desc_Departamento V="BOYACA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="TUNJA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="15"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="316"/> 
+	<Mesas_Informadas V="316"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="116448"/> 
+	<Total_Sufragantes V="6523"/> 
+	<Porc_Sufragantes V="005,60"/> 
+	<Votos_Nulos V="316"/> 
+	<Porc_Votos_Nulos V="004,84"/> 
+	<Votos_No_Marcados V="632"/> 
+	<Porc_Votos_No_Marcados V="009,68"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="1090"/> 
+				<Porc V="019,55"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="979"/> 
+				<Porc V="017,56"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="909"/> 
+				<Porc V="016,30"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="314"/> 
+				<Votos V="874"/> 
+				<Porc V="015,67"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="775"/> 
+				<Porc V="013,90"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="089"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="4627"/> 
+				<Porc V="082,99"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="948"/> 
+				<Porc V="017,00"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="5575"/> 
+				<Porc V="085,46"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="0700100"/> 
+				<Candidato V="005"/> 
+				<Votos V="1090"/> 
+				<Porc V="019,55"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0700100"/> 
+				<Candidato V="004"/> 
+				<Votos V="979"/> 
+				<Porc V="017,56"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0700100"/> 
+				<Candidato V="002"/> 
+				<Votos V="909"/> 
+				<Porc V="016,30"/> 
+				<Partido V="002"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0700100"/> 
+				<Candidato V="003"/> 
+				<Votos V="874"/> 
+				<Porc V="015,67"/> 
+				<Partido V="314"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0700100"/> 
+				<Candidato V="001"/> 
+				<Votos V="775"/> 
+				<Porc V="013,90"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0700100"/> 
+				<Candidato V="006"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="089"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="09"/> 
+	<Desc_Departamento V="CALDAS"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="MANIZALES"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="909"/> 
+	<Mesas_Informadas V="909"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="321294"/> 
+	<Total_Sufragantes V="14137"/> 
+	<Porc_Sufragantes V="004,40"/> 
+	<Votos_Nulos V="909"/> 
+	<Porc_Votos_Nulos V="006,42"/> 
+	<Votos_No_Marcados V="1818"/> 
+	<Porc_Votos_No_Marcados V="012,85"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="3253"/> 
+				<Porc V="028,51"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="543"/> 
+				<Votos V="2897"/> 
+				<Porc V="025,39"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="2533"/> 
+				<Porc V="022,19"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="346"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="8683"/> 
+				<Porc V="076,09"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="2727"/> 
+				<Porc V="023,90"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="11410"/> 
+				<Porc V="080,71"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="0900100"/> 
+				<Candidato V="003"/> 
+				<Votos V="3253"/> 
+				<Porc V="028,51"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0900100"/> 
+				<Candidato V="002"/> 
+				<Votos V="2897"/> 
+				<Porc V="025,39"/> 
+				<Partido V="543"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0900100"/> 
+				<Candidato V="001"/> 
+				<Votos V="2533"/> 
+				<Porc V="022,19"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="0900100"/> 
+				<Candidato V="004"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="346"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0004"/> 
+	<Boletin V="0003"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="11"/> 
+	<Desc_Departamento V="CAUCA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="POPAYAN"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="20"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="617"/> 
+	<Mesas_Informadas V="617"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="220562"/> 
+	<Total_Sufragantes V="9629"/> 
+	<Porc_Sufragantes V="004,36"/> 
+	<Votos_Nulos V="617"/> 
+	<Porc_Votos_Nulos V="006,40"/> 
+	<Votos_No_Marcados V="1234"/> 
+	<Porc_Votos_No_Marcados V="012,81"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="365"/> 
+				<Votos V="2256"/> 
+				<Porc V="029,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="303"/> 
+				<Votos V="1962"/> 
+				<Porc V="025,22"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="1709"/> 
+				<Porc V="021,97"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="5927"/> 
+				<Porc V="076,20"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="1851"/> 
+				<Porc V="023,79"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="7778"/> 
+				<Porc V="080,77"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="1100100"/> 
+				<Candidato V="003"/> 
+				<Votos V="2256"/> 
+				<Porc V="029,00"/> 
+				<Partido V="365"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1100100"/> 
+				<Candidato V="002"/> 
+				<Votos V="1962"/> 
+				<Porc V="025,22"/> 
+				<Partido V="303"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1100100"/> 
+				<Candidato V="001"/> 
+				<Votos V="1709"/> 
+				<Porc V="021,97"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1100100"/> 
+				<Candidato V="004"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="12"/> 
+	<Desc_Departamento V="CESAR"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="VALLEDUPAR"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="767"/> 
+	<Mesas_Informadas V="355"/> 
+	<Porc_Mesas_Informadas V="046,28"/> 
+	<Potencial_Sufragantes V="273561"/> 
+	<Total_Sufragantes V="35708"/> 
+	<Porc_Sufragantes V="013,05"/> 
+	<Votos_Nulos V="2860"/> 
+	<Porc_Votos_Nulos V="008,00"/> 
+	<Votos_No_Marcados V="3036"/> 
+	<Porc_Votos_No_Marcados V="008,50"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="3110"/> 
+				<Porc V="010,43"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="026"/> 
+				<Votos V="3071"/> 
+				<Porc V="010,30"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="3024"/> 
+				<Porc V="010,14"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="3023"/> 
+				<Porc V="010,14"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="3008"/> 
+				<Porc V="010,08"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="2942"/> 
+				<Porc V="009,86"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="2937"/> 
+				<Porc V="009,85"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="2931"/> 
+				<Porc V="009,83"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="2897"/> 
+				<Porc V="009,71"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="26943"/> 
+				<Porc V="090,37"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="2869"/> 
+				<Porc V="009,62"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="29812"/> 
+				<Porc V="083,48"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="003"/> 
+				<Votos V="3110"/> 
+				<Porc V="010,43"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="009"/> 
+				<Votos V="3071"/> 
+				<Porc V="010,30"/> 
+				<Partido V="026"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="007"/> 
+				<Votos V="3024"/> 
+				<Porc V="010,14"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="005"/> 
+				<Votos V="3023"/> 
+				<Porc V="010,14"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="008"/> 
+				<Votos V="3008"/> 
+				<Porc V="010,08"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="002"/> 
+				<Votos V="2942"/> 
+				<Porc V="009,86"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="006"/> 
+				<Votos V="2937"/> 
+				<Porc V="009,85"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="001"/> 
+				<Votos V="2931"/> 
+				<Porc V="009,83"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1200100"/> 
+				<Candidato V="004"/> 
+				<Votos V="2897"/> 
+				<Porc V="009,71"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="13"/> 
+	<Desc_Departamento V="CORDOBA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="MONTERIA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="839"/> 
+	<Mesas_Informadas V="480"/> 
+	<Porc_Mesas_Informadas V="057,21"/> 
+	<Potencial_Sufragantes V="299681"/> 
+	<Total_Sufragantes V="44506"/> 
+	<Porc_Sufragantes V="014,85"/> 
+	<Votos_Nulos V="4822"/> 
+	<Porc_Votos_Nulos V="010,83"/> 
+	<Votos_No_Marcados V="5133"/> 
+	<Porc_Votos_No_Marcados V="011,53"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="5055"/> 
+				<Porc V="014,63"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="034"/> 
+				<Votos V="5045"/> 
+				<Porc V="014,60"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="4920"/> 
+				<Porc V="014,23"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="4899"/> 
+				<Porc V="014,17"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="011"/> 
+				<Votos V="4884"/> 
+				<Porc V="014,13"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="4869"/> 
+				<Porc V="014,09"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="29672"/> 
+				<Porc V="085,87"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="4879"/> 
+				<Porc V="014,12"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="34551"/> 
+				<Porc V="077,63"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="1300100"/> 
+				<Candidato V="003"/> 
+				<Votos V="5055"/> 
+				<Porc V="014,63"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1300100"/> 
+				<Candidato V="004"/> 
+				<Votos V="5045"/> 
+				<Porc V="014,60"/> 
+				<Partido V="034"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1300100"/> 
+				<Candidato V="002"/> 
+				<Votos V="4920"/> 
+				<Porc V="014,23"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1300100"/> 
+				<Candidato V="001"/> 
+				<Votos V="4899"/> 
+				<Porc V="014,17"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1300100"/> 
+				<Candidato V="006"/> 
+				<Votos V="4884"/> 
+				<Porc V="014,13"/> 
+				<Partido V="011"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1300100"/> 
+				<Candidato V="005"/> 
+				<Votos V="4869"/> 
+				<Porc V="014,09"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="16"/> 
+	<Desc_Departamento V="BOGOTA D.C."/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="BOGOTA. D.C."/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="13281"/> 
+	<Mesas_Informadas V="6372"/> 
+	<Porc_Mesas_Informadas V="047,97"/> 
+	<Potencial_Sufragantes V="5453086"/> 
+	<Total_Sufragantes V="180736"/> 
+	<Porc_Sufragantes V="003,31"/> 
+	<Votos_Nulos V="6372"/> 
+	<Porc_Votos_Nulos V="003,52"/> 
+	<Votos_No_Marcados V="12744"/> 
+	<Porc_Votos_No_Marcados V="007,05"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="025"/> 
+				<Votos V="19984"/> 
+				<Porc V="012,36"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="054"/> 
+				<Votos V="19942"/> 
+				<Porc V="012,33"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="020"/> 
+				<Votos V="19369"/> 
+				<Porc V="011,98"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="683"/> 
+				<Votos V="18266"/> 
+				<Porc V="011,30"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="297"/> 
+				<Votos V="17563"/> 
+				<Porc V="010,86"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="16722"/> 
+				<Porc V="010,34"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="720"/> 
+				<Votos V="15719"/> 
+				<Porc V="009,72"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="14939"/> 
+				<Porc V="009,24"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="185"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="142504"/> 
+				<Porc V="088,17"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="19116"/> 
+				<Porc V="011,82"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="161620"/> 
+				<Porc V="089,42"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="008"/> 
+				<Votos V="19984"/> 
+				<Porc V="012,36"/> 
+				<Partido V="025"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="007"/> 
+				<Votos V="19942"/> 
+				<Porc V="012,33"/> 
+				<Partido V="054"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="006"/> 
+				<Votos V="19369"/> 
+				<Porc V="011,98"/> 
+				<Partido V="020"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="005"/> 
+				<Votos V="18266"/> 
+				<Porc V="011,30"/> 
+				<Partido V="683"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="004"/> 
+				<Votos V="17563"/> 
+				<Porc V="010,86"/> 
+				<Partido V="297"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="003"/> 
+				<Votos V="16722"/> 
+				<Porc V="010,34"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="002"/> 
+				<Votos V="15719"/> 
+				<Porc V="009,72"/> 
+				<Partido V="720"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="001"/> 
+				<Votos V="14939"/> 
+				<Porc V="009,24"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1600100"/> 
+				<Candidato V="009"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="185"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0004"/> 
+	<Boletin V="0003"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="17"/> 
+	<Desc_Departamento V="CHOCO"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="QUIBDO"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="20"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="234"/> 
+	<Mesas_Informadas V="234"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="79259"/> 
+	<Total_Sufragantes V="3086"/> 
+	<Porc_Sufragantes V="003,89"/> 
+	<Votos_Nulos V="234"/> 
+	<Porc_Votos_Nulos V="007,58"/> 
+	<Votos_No_Marcados V="468"/> 
+	<Porc_Votos_No_Marcados V="015,16"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="731"/> 
+				<Votos V="876"/> 
+				<Porc V="036,74"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="734"/> 
+				<Votos V="806"/> 
+				<Porc V="033,80"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="1682"/> 
+				<Porc V="070,55"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="702"/> 
+				<Porc V="029,44"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="2384"/> 
+				<Porc V="077,25"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="1700100"/> 
+				<Candidato V="002"/> 
+				<Votos V="876"/> 
+				<Porc V="036,74"/> 
+				<Partido V="731"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1700100"/> 
+				<Candidato V="001"/> 
+				<Votos V="806"/> 
+				<Porc V="033,80"/> 
+				<Partido V="734"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1700100"/> 
+				<Candidato V="003"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="19"/> 
+	<Desc_Departamento V="HUILA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="NEIVA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="698"/> 
+	<Mesas_Informadas V="365"/> 
+	<Porc_Mesas_Informadas V="052,29"/> 
+	<Potencial_Sufragantes V="251764"/> 
+	<Total_Sufragantes V="34576"/> 
+	<Porc_Sufragantes V="013,73"/> 
+	<Votos_Nulos V="5631"/> 
+	<Porc_Votos_Nulos V="016,28"/> 
+	<Votos_No_Marcados V="5817"/> 
+	<Porc_Votos_No_Marcados V="016,82"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="5886"/> 
+				<Porc V="025,44"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="234"/> 
+				<Votos V="5846"/> 
+				<Porc V="025,27"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="5796"/> 
+				<Porc V="025,06"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="17528"/> 
+				<Porc V="075,78"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="5600"/> 
+				<Porc V="024,21"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="23128"/> 
+				<Porc V="066,89"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="1900100"/> 
+				<Candidato V="001"/> 
+				<Votos V="5886"/> 
+				<Porc V="025,44"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1900100"/> 
+				<Candidato V="002"/> 
+				<Votos V="5846"/> 
+				<Porc V="025,27"/> 
+				<Partido V="234"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="1900100"/> 
+				<Candidato V="003"/> 
+				<Votos V="5796"/> 
+				<Porc V="025,06"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0005"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="21"/> 
+	<Desc_Departamento V="MAGDALENA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="SANTA MARTA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="885"/> 
+	<Mesas_Informadas V="477"/> 
+	<Porc_Mesas_Informadas V="053,89"/> 
+	<Potencial_Sufragantes V="317780"/> 
+	<Total_Sufragantes V="47406"/> 
+	<Porc_Sufragantes V="014,91"/> 
+	<Votos_Nulos V="5692"/> 
+	<Porc_Votos_Nulos V="012,00"/> 
+	<Votos_No_Marcados V="6129"/> 
+	<Porc_Votos_No_Marcados V="012,92"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="6140"/> 
+				<Porc V="017,25"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="5888"/> 
+				<Porc V="016,54"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="019"/> 
+				<Votos V="5866"/> 
+				<Porc V="016,48"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="521"/> 
+				<Votos V="5864"/> 
+				<Porc V="016,47"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="5735"/> 
+				<Porc V="016,11"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="29493"/> 
+				<Porc V="082,88"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="6092"/> 
+				<Porc V="017,11"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="35585"/> 
+				<Porc V="075,06"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2100100"/> 
+				<Candidato V="004"/> 
+				<Votos V="6140"/> 
+				<Porc V="017,25"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2100100"/> 
+				<Candidato V="003"/> 
+				<Votos V="5888"/> 
+				<Porc V="016,54"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2100100"/> 
+				<Candidato V="005"/> 
+				<Votos V="5866"/> 
+				<Porc V="016,48"/> 
+				<Partido V="019"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2100100"/> 
+				<Candidato V="002"/> 
+				<Votos V="5864"/> 
+				<Porc V="016,47"/> 
+				<Partido V="521"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2100100"/> 
+				<Candidato V="001"/> 
+				<Votos V="5735"/> 
+				<Porc V="016,11"/> 
+				<Partido V="002"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="23"/> 
+	<Desc_Departamento V="NARIÑO"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="PASTO"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="791"/> 
+	<Mesas_Informadas V="416"/> 
+	<Porc_Mesas_Informadas V="052,59"/> 
+	<Potencial_Sufragantes V="278448"/> 
+	<Total_Sufragantes V="38253"/> 
+	<Porc_Sufragantes V="013,73"/> 
+	<Votos_Nulos V="4736"/> 
+	<Porc_Votos_Nulos V="012,38"/> 
+	<Votos_No_Marcados V="4869"/> 
+	<Porc_Votos_No_Marcados V="012,72"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="5089"/> 
+				<Porc V="017,76"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="011"/> 
+				<Votos V="4832"/> 
+				<Porc V="016,86"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="4828"/> 
+				<Porc V="016,85"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="4756"/> 
+				<Porc V="016,60"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="546"/> 
+				<Votos V="4631"/> 
+				<Porc V="016,16"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="24136"/> 
+				<Porc V="084,25"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="4512"/> 
+				<Porc V="015,74"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="28648"/> 
+				<Porc V="074,89"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2300100"/> 
+				<Candidato V="001"/> 
+				<Votos V="5089"/> 
+				<Porc V="017,76"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2300100"/> 
+				<Candidato V="005"/> 
+				<Votos V="4832"/> 
+				<Porc V="016,86"/> 
+				<Partido V="011"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2300100"/> 
+				<Candidato V="004"/> 
+				<Votos V="4828"/> 
+				<Porc V="016,85"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2300100"/> 
+				<Candidato V="003"/> 
+				<Votos V="4756"/> 
+				<Porc V="016,60"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2300100"/> 
+				<Candidato V="002"/> 
+				<Votos V="4631"/> 
+				<Porc V="016,16"/> 
+				<Partido V="546"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0004"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="24"/> 
+	<Desc_Departamento V="RISARALDA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="PEREIRA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="1085"/> 
+	<Mesas_Informadas V="676"/> 
+	<Porc_Mesas_Informadas V="062,30"/> 
+	<Potencial_Sufragantes V="388084"/> 
+	<Total_Sufragantes V="8783"/> 
+	<Porc_Sufragantes V="002,26"/> 
+	<Votos_Nulos V="676"/> 
+	<Porc_Votos_Nulos V="007,69"/> 
+	<Votos_No_Marcados V="1352"/> 
+	<Porc_Votos_No_Marcados V="015,39"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="035"/> 
+				<Votos V="2591"/> 
+				<Porc V="038,35"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="2136"/> 
+				<Porc V="031,62"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="4727"/> 
+				<Porc V="069,97"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="2028"/> 
+				<Porc V="030,02"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="6755"/> 
+				<Porc V="076,90"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2400100"/> 
+				<Candidato V="002"/> 
+				<Votos V="2591"/> 
+				<Porc V="038,35"/> 
+				<Partido V="035"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2400100"/> 
+				<Candidato V="001"/> 
+				<Votos V="2136"/> 
+				<Porc V="031,62"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2400100"/> 
+				<Candidato V="003"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="25"/> 
+	<Desc_Departamento V="NORTE DE SAN"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="CUCUTA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="1518"/> 
+	<Mesas_Informadas V="1058"/> 
+	<Porc_Mesas_Informadas V="069,69"/> 
+	<Potencial_Sufragantes V="540734"/> 
+	<Total_Sufragantes V="102666"/> 
+	<Porc_Sufragantes V="018,98"/> 
+	<Votos_Nulos V="9566"/> 
+	<Porc_Votos_Nulos V="009,31"/> 
+	<Votos_No_Marcados V="9146"/> 
+	<Porc_Votos_No_Marcados V="008,90"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="9542"/> 
+				<Porc V="011,36"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="9479"/> 
+				<Porc V="011,29"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="011"/> 
+				<Votos V="9383"/> 
+				<Porc V="011,17"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="404"/> 
+				<Votos V="9307"/> 
+				<Porc V="011,08"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="9277"/> 
+				<Porc V="011,05"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="9264"/> 
+				<Porc V="011,03"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="007"/> 
+				<Votos V="9253"/> 
+				<Porc V="011,02"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="9200"/> 
+				<Porc V="010,95"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="74705"/> 
+				<Porc V="088,98"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="9249"/> 
+				<Porc V="011,01"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="83954"/> 
+				<Porc V="081,77"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="003"/> 
+				<Votos V="9542"/> 
+				<Porc V="011,36"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="001"/> 
+				<Votos V="9479"/> 
+				<Porc V="011,29"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="005"/> 
+				<Votos V="9383"/> 
+				<Porc V="011,17"/> 
+				<Partido V="011"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="004"/> 
+				<Votos V="9307"/> 
+				<Porc V="011,08"/> 
+				<Partido V="404"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="006"/> 
+				<Votos V="9277"/> 
+				<Porc V="011,05"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="007"/> 
+				<Votos V="9264"/> 
+				<Porc V="011,03"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="002"/> 
+				<Votos V="9253"/> 
+				<Porc V="011,02"/> 
+				<Partido V="007"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2500100"/> 
+				<Candidato V="008"/> 
+				<Votos V="9200"/> 
+				<Porc V="010,95"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="26"/> 
+	<Desc_Departamento V="QUINDIO"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="ARMENIA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="689"/> 
+	<Mesas_Informadas V="612"/> 
+	<Porc_Mesas_Informadas V="088,82"/> 
+	<Potencial_Sufragantes V="245103"/> 
+	<Total_Sufragantes V="7989"/> 
+	<Porc_Sufragantes V="003,25"/> 
+	<Votos_Nulos V="612"/> 
+	<Porc_Votos_Nulos V="007,66"/> 
+	<Votos_No_Marcados V="1224"/> 
+	<Porc_Votos_No_Marcados V="015,32"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="2313"/> 
+				<Porc V="037,59"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="055"/> 
+				<Votos V="2004"/> 
+				<Porc V="032,56"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="4317"/> 
+				<Porc V="070,16"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="1836"/> 
+				<Porc V="029,83"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="6153"/> 
+				<Porc V="077,01"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2600100"/> 
+				<Candidato V="002"/> 
+				<Votos V="2313"/> 
+				<Porc V="037,59"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2600100"/> 
+				<Candidato V="001"/> 
+				<Votos V="2004"/> 
+				<Porc V="032,56"/> 
+				<Partido V="055"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2600100"/> 
+				<Candidato V="003"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="27"/> 
+	<Desc_Departamento V="SANTANDER"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="BUCARAMANGA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="1428"/> 
+	<Mesas_Informadas V="848"/> 
+	<Porc_Mesas_Informadas V="059,38"/> 
+	<Potencial_Sufragantes V="493802"/> 
+	<Total_Sufragantes V="76672"/> 
+	<Porc_Sufragantes V="015,52"/> 
+	<Votos_Nulos V="11160"/> 
+	<Porc_Votos_Nulos V="014,55"/> 
+	<Votos_No_Marcados V="10742"/> 
+	<Porc_Votos_No_Marcados V="014,01"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="11098"/> 
+				<Porc V="020,26"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="10884"/> 
+				<Porc V="019,87"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="10792"/> 
+				<Porc V="019,70"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="016"/> 
+				<Votos V="10762"/> 
+				<Porc V="019,64"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="43536"/> 
+				<Porc V="079,48"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="11234"/> 
+				<Porc V="020,51"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="54770"/> 
+				<Porc V="071,43"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2700100"/> 
+				<Candidato V="003"/> 
+				<Votos V="11098"/> 
+				<Porc V="020,26"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2700100"/> 
+				<Candidato V="001"/> 
+				<Votos V="10884"/> 
+				<Porc V="019,87"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2700100"/> 
+				<Candidato V="002"/> 
+				<Votos V="10792"/> 
+				<Porc V="019,70"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2700100"/> 
+				<Candidato V="004"/> 
+				<Votos V="10762"/> 
+				<Porc V="019,64"/> 
+				<Partido V="016"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="28"/> 
+	<Desc_Departamento V="SUCRE"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="SINCELEJO"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="540"/> 
+	<Mesas_Informadas V="281"/> 
+	<Porc_Mesas_Informadas V="052,03"/> 
+	<Potencial_Sufragantes V="193233"/> 
+	<Total_Sufragantes V="28654"/> 
+	<Porc_Sufragantes V="014,82"/> 
+	<Votos_Nulos V="3573"/> 
+	<Porc_Votos_Nulos V="012,46"/> 
+	<Votos_No_Marcados V="3804"/> 
+	<Porc_Votos_No_Marcados V="013,27"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="3655"/> 
+				<Porc V="017,17"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="697"/> 
+				<Votos V="3579"/> 
+				<Porc V="016,82"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="3516"/> 
+				<Porc V="016,52"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="3493"/> 
+				<Porc V="016,41"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="3461"/> 
+				<Porc V="016,26"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="17704"/> 
+				<Porc V="083,20"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="3573"/> 
+				<Porc V="016,79"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="21277"/> 
+				<Porc V="074,25"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2800100"/> 
+				<Candidato V="001"/> 
+				<Votos V="3655"/> 
+				<Porc V="017,17"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2800100"/> 
+				<Candidato V="005"/> 
+				<Votos V="3579"/> 
+				<Porc V="016,82"/> 
+				<Partido V="697"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2800100"/> 
+				<Candidato V="002"/> 
+				<Votos V="3516"/> 
+				<Porc V="016,52"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2800100"/> 
+				<Candidato V="004"/> 
+				<Votos V="3493"/> 
+				<Porc V="016,41"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2800100"/> 
+				<Candidato V="003"/> 
+				<Votos V="3461"/> 
+				<Porc V="016,26"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0005"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="29"/> 
+	<Desc_Departamento V="TOLIMA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="IBAGUE"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="1090"/> 
+	<Mesas_Informadas V="1090"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="388980"/> 
+	<Total_Sufragantes V="22517"/> 
+	<Porc_Sufragantes V="005,78"/> 
+	<Votos_Nulos V="1090"/> 
+	<Porc_Votos_Nulos V="004,84"/> 
+	<Votos_No_Marcados V="2180"/> 
+	<Porc_Votos_No_Marcados V="009,68"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="3654"/> 
+				<Porc V="018,98"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="060"/> 
+				<Votos V="3440"/> 
+				<Porc V="017,87"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="3191"/> 
+				<Porc V="016,57"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="2866"/> 
+				<Porc V="014,89"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="2826"/> 
+				<Porc V="014,68"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="266"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="15977"/> 
+				<Porc V="083,01"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="3270"/> 
+				<Porc V="016,98"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="19247"/> 
+				<Porc V="085,47"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="2900100"/> 
+				<Candidato V="005"/> 
+				<Votos V="3654"/> 
+				<Porc V="018,98"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2900100"/> 
+				<Candidato V="004"/> 
+				<Votos V="3440"/> 
+				<Porc V="017,87"/> 
+				<Partido V="060"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2900100"/> 
+				<Candidato V="003"/> 
+				<Votos V="3191"/> 
+				<Porc V="016,57"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2900100"/> 
+				<Candidato V="001"/> 
+				<Votos V="2866"/> 
+				<Porc V="014,89"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2900100"/> 
+				<Candidato V="002"/> 
+				<Votos V="2826"/> 
+				<Porc V="014,68"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="2900100"/> 
+				<Candidato V="006"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="266"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="31"/> 
+	<Desc_Departamento V="VALLE"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="CALI"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="4414"/> 
+	<Mesas_Informadas V="4414"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="1611391"/> 
+	<Total_Sufragantes V="114538"/> 
+	<Porc_Sufragantes V="007,10"/> 
+	<Votos_Nulos V="4414"/> 
+	<Porc_Votos_Nulos V="003,85"/> 
+	<Votos_No_Marcados V="8828"/> 
+	<Porc_Votos_No_Marcados V="007,70"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="14187"/> 
+				<Porc V="014,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="14052"/> 
+				<Porc V="013,87"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="13244"/> 
+				<Porc V="013,07"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="099"/> 
+				<Votos V="12191"/> 
+				<Porc V="012,03"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="11553"/> 
+				<Porc V="011,40"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="11513"/> 
+				<Porc V="011,36"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="11314"/> 
+				<Porc V="011,16"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="88054"/> 
+				<Porc V="086,92"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="13242"/> 
+				<Porc V="013,07"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="101296"/> 
+				<Porc V="088,43"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="007"/> 
+				<Votos V="14187"/> 
+				<Porc V="014,00"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="006"/> 
+				<Votos V="14052"/> 
+				<Porc V="013,87"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="005"/> 
+				<Votos V="13244"/> 
+				<Porc V="013,07"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="004"/> 
+				<Votos V="12191"/> 
+				<Porc V="012,03"/> 
+				<Partido V="099"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="003"/> 
+				<Votos V="11553"/> 
+				<Porc V="011,40"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="001"/> 
+				<Votos V="11513"/> 
+				<Porc V="011,36"/> 
+				<Partido V="002"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="002"/> 
+				<Votos V="11314"/> 
+				<Porc V="011,16"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="3100100"/> 
+				<Candidato V="008"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0005"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="40"/> 
+	<Desc_Departamento V="ARAUCA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="ARAUCA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="186"/> 
+	<Mesas_Informadas V="186"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="66150"/> 
+	<Total_Sufragantes V="2987"/> 
+	<Porc_Sufragantes V="004,51"/> 
+	<Votos_Nulos V="186"/> 
+	<Porc_Votos_Nulos V="006,22"/> 
+	<Votos_No_Marcados V="372"/> 
+	<Porc_Votos_No_Marcados V="012,45"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="681"/> 
+				<Porc V="028,03"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="605"/> 
+				<Porc V="024,90"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="585"/> 
+				<Porc V="024,08"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="1871"/> 
+				<Porc V="077,02"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="558"/> 
+				<Porc V="022,97"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="2429"/> 
+				<Porc V="081,31"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="4000100"/> 
+				<Candidato V="003"/> 
+				<Votos V="681"/> 
+				<Porc V="028,03"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4000100"/> 
+				<Candidato V="001"/> 
+				<Votos V="605"/> 
+				<Porc V="024,90"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4000100"/> 
+				<Candidato V="002"/> 
+				<Votos V="585"/> 
+				<Porc V="024,08"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4000100"/> 
+				<Candidato V="004"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0005"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="44"/> 
+	<Desc_Departamento V="CAQUETA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="FLORENCIA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="316"/> 
+	<Mesas_Informadas V="316"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="114199"/> 
+	<Total_Sufragantes V="7444"/> 
+	<Porc_Sufragantes V="006,51"/> 
+	<Votos_Nulos V="316"/> 
+	<Porc_Votos_Nulos V="004,24"/> 
+	<Votos_No_Marcados V="632"/> 
+	<Porc_Votos_No_Marcados V="008,49"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="1034"/> 
+				<Porc V="015,91"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="1019"/> 
+				<Porc V="015,68"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="1014"/> 
+				<Porc V="015,60"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="871"/> 
+				<Porc V="013,40"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="817"/> 
+				<Porc V="012,57"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="007"/> 
+				<Votos V="793"/> 
+				<Porc V="012,20"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="197"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="5548"/> 
+				<Porc V="085,40"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="948"/> 
+				<Porc V="014,59"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="6496"/> 
+				<Porc V="087,26"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="006"/> 
+				<Votos V="1034"/> 
+				<Porc V="015,91"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="005"/> 
+				<Votos V="1019"/> 
+				<Porc V="015,68"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="004"/> 
+				<Votos V="1014"/> 
+				<Porc V="015,60"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="003"/> 
+				<Votos V="871"/> 
+				<Porc V="013,40"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="001"/> 
+				<Votos V="817"/> 
+				<Porc V="012,57"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="002"/> 
+				<Votos V="793"/> 
+				<Porc V="012,20"/> 
+				<Partido V="007"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4400100"/> 
+				<Candidato V="007"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="197"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="46"/> 
+	<Desc_Departamento V="CASANARE"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="YOPAL"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="290"/> 
+	<Mesas_Informadas V="141"/> 
+	<Porc_Mesas_Informadas V="048,62"/> 
+	<Potencial_Sufragantes V="99400"/> 
+	<Total_Sufragantes V="12011"/> 
+	<Porc_Sufragantes V="012,08"/> 
+	<Votos_Nulos V="978"/> 
+	<Porc_Votos_Nulos V="008,14"/> 
+	<Votos_No_Marcados V="989"/> 
+	<Porc_Votos_No_Marcados V="008,23"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="1100"/> 
+				<Porc V="010,95"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="1047"/> 
+				<Porc V="010,42"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="013"/> 
+				<Votos V="1033"/> 
+				<Porc V="010,28"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="043"/> 
+				<Votos V="1033"/> 
+				<Porc V="010,28"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="1027"/> 
+				<Porc V="010,22"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="965"/> 
+				<Porc V="009,60"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="959"/> 
+				<Porc V="009,54"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="954"/> 
+				<Porc V="009,49"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="915"/> 
+				<Porc V="009,10"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="9033"/> 
+				<Porc V="089,93"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="1011"/> 
+				<Porc V="010,06"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="10044"/> 
+				<Porc V="083,62"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="006"/> 
+				<Votos V="1100"/> 
+				<Porc V="010,95"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="002"/> 
+				<Votos V="1047"/> 
+				<Porc V="010,42"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="009"/> 
+				<Votos V="1033"/> 
+				<Porc V="010,28"/> 
+				<Partido V="013"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="005"/> 
+				<Votos V="1033"/> 
+				<Porc V="010,28"/> 
+				<Partido V="043"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="003"/> 
+				<Votos V="1027"/> 
+				<Porc V="010,22"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="008"/> 
+				<Votos V="965"/> 
+				<Porc V="009,60"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="004"/> 
+				<Votos V="959"/> 
+				<Porc V="009,54"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="001"/> 
+				<Votos V="954"/> 
+				<Porc V="009,49"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4600100"/> 
+				<Candidato V="007"/> 
+				<Votos V="915"/> 
+				<Porc V="009,10"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0005"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="48"/> 
+	<Desc_Departamento V="LA GUAJIRA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="RIOHACHA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="316"/> 
+	<Mesas_Informadas V="131"/> 
+	<Porc_Mesas_Informadas V="041,45"/> 
+	<Potencial_Sufragantes V="107380"/> 
+	<Total_Sufragantes V="12740"/> 
+	<Porc_Sufragantes V="011,86"/> 
+	<Votos_Nulos V="1966"/> 
+	<Porc_Votos_Nulos V="015,43"/> 
+	<Votos_No_Marcados V="1810"/> 
+	<Porc_Votos_No_Marcados V="014,20"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="093"/> 
+				<Votos V="1919"/> 
+				<Porc V="021,40"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="007"/> 
+				<Votos V="1814"/> 
+				<Porc V="020,23"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="1746"/> 
+				<Porc V="019,47"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="131"/> 
+				<Votos V="1658"/> 
+				<Porc V="018,49"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="7137"/> 
+				<Porc V="079,61"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="1827"/> 
+				<Porc V="020,38"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="8964"/> 
+				<Porc V="070,36"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="4800100"/> 
+				<Candidato V="002"/> 
+				<Votos V="1919"/> 
+				<Porc V="021,40"/> 
+				<Partido V="093"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4800100"/> 
+				<Candidato V="004"/> 
+				<Votos V="1814"/> 
+				<Porc V="020,23"/> 
+				<Partido V="007"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4800100"/> 
+				<Candidato V="001"/> 
+				<Votos V="1746"/> 
+				<Porc V="019,47"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="4800100"/> 
+				<Candidato V="003"/> 
+				<Votos V="1658"/> 
+				<Porc V="018,49"/> 
+				<Partido V="131"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0004"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="50"/> 
+	<Desc_Departamento V="GUAINIA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="INIRIDA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="54"/> 
+	<Mesas_Informadas V="40"/> 
+	<Porc_Mesas_Informadas V="074,07"/> 
+	<Potencial_Sufragantes V="18210"/> 
+	<Total_Sufragantes V="654"/> 
+	<Porc_Sufragantes V="003,59"/> 
+	<Votos_Nulos V="40"/> 
+	<Porc_Votos_Nulos V="006,11"/> 
+	<Votos_No_Marcados V="80"/> 
+	<Porc_Votos_No_Marcados V="012,23"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="180"/> 
+				<Porc V="033,70"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="144"/> 
+				<Porc V="026,96"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="007"/> 
+				<Votos V="90"/> 
+				<Porc V="016,85"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="414"/> 
+				<Porc V="077,52"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="120"/> 
+				<Porc V="022,47"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="534"/> 
+				<Porc V="081,65"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="5000100"/> 
+				<Candidato V="003"/> 
+				<Votos V="180"/> 
+				<Porc V="033,70"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5000100"/> 
+				<Candidato V="002"/> 
+				<Votos V="144"/> 
+				<Porc V="026,96"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5000100"/> 
+				<Candidato V="001"/> 
+				<Votos V="90"/> 
+				<Porc V="016,85"/> 
+				<Partido V="007"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5000100"/> 
+				<Candidato V="004"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="52"/> 
+	<Desc_Departamento V="META"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="VILLAVICENCIO"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="936"/> 
+	<Mesas_Informadas V="924"/> 
+	<Porc_Mesas_Informadas V="098,71"/> 
+	<Potencial_Sufragantes V="330274"/> 
+	<Total_Sufragantes V="19103"/> 
+	<Porc_Sufragantes V="005,78"/> 
+	<Votos_Nulos V="924"/> 
+	<Porc_Votos_Nulos V="004,83"/> 
+	<Votos_No_Marcados V="1848"/> 
+	<Porc_Votos_No_Marcados V="009,67"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="3049"/> 
+				<Porc V="018,67"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="2907"/> 
+				<Porc V="017,80"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="771"/> 
+				<Votos V="2665"/> 
+				<Porc V="016,31"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="2522"/> 
+				<Porc V="015,44"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="097"/> 
+				<Votos V="2416"/> 
+				<Porc V="014,79"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="13559"/> 
+				<Porc V="083,02"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="2772"/> 
+				<Porc V="016,97"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="16331"/> 
+				<Porc V="085,48"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="5200100"/> 
+				<Candidato V="005"/> 
+				<Votos V="3049"/> 
+				<Porc V="018,67"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5200100"/> 
+				<Candidato V="004"/> 
+				<Votos V="2907"/> 
+				<Porc V="017,80"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5200100"/> 
+				<Candidato V="003"/> 
+				<Votos V="2665"/> 
+				<Porc V="016,31"/> 
+				<Partido V="771"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5200100"/> 
+				<Candidato V="002"/> 
+				<Votos V="2522"/> 
+				<Porc V="015,44"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5200100"/> 
+				<Candidato V="001"/> 
+				<Votos V="2416"/> 
+				<Porc V="014,79"/> 
+				<Partido V="097"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5200100"/> 
+				<Candidato V="006"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="54"/> 
+	<Desc_Departamento V="GUAVIARE"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="SAN JOSE DEL GUAVIARE"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="110"/> 
+	<Mesas_Informadas V="56"/> 
+	<Porc_Mesas_Informadas V="050,90"/> 
+	<Potencial_Sufragantes V="37297"/> 
+	<Total_Sufragantes V="4750"/> 
+	<Porc_Sufragantes V="012,73"/> 
+	<Votos_Nulos V="555"/> 
+	<Porc_Votos_Nulos V="011,68"/> 
+	<Votos_No_Marcados V="578"/> 
+	<Porc_Votos_No_Marcados V="012,16"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="189"/> 
+				<Votos V="558"/> 
+				<Porc V="015,42"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="514"/> 
+				<Porc V="014,21"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="513"/> 
+				<Porc V="014,18"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="354"/> 
+				<Votos V="500"/> 
+				<Porc V="013,82"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="583"/> 
+				<Votos V="495"/> 
+				<Porc V="013,68"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="470"/> 
+				<Porc V="012,99"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="3050"/> 
+				<Porc V="084,32"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="567"/> 
+				<Porc V="015,67"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="3617"/> 
+				<Porc V="076,14"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="5400100"/> 
+				<Candidato V="005"/> 
+				<Votos V="558"/> 
+				<Porc V="015,42"/> 
+				<Partido V="189"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5400100"/> 
+				<Candidato V="006"/> 
+				<Votos V="514"/> 
+				<Porc V="014,21"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5400100"/> 
+				<Candidato V="003"/> 
+				<Votos V="513"/> 
+				<Porc V="014,18"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5400100"/> 
+				<Candidato V="002"/> 
+				<Votos V="500"/> 
+				<Porc V="013,82"/> 
+				<Partido V="354"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5400100"/> 
+				<Candidato V="004"/> 
+				<Votos V="495"/> 
+				<Porc V="013,68"/> 
+				<Partido V="583"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="5400100"/> 
+				<Candidato V="001"/> 
+				<Votos V="470"/> 
+				<Porc V="012,99"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="60"/> 
+	<Desc_Departamento V="AMAZONAS"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="LETICIA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="100"/> 
+	<Mesas_Informadas V="50"/> 
+	<Porc_Mesas_Informadas V="050,00"/> 
+	<Potencial_Sufragantes V="34044"/> 
+	<Total_Sufragantes V="4736"/> 
+	<Porc_Sufragantes V="013,91"/> 
+	<Votos_Nulos V="535"/> 
+	<Porc_Votos_Nulos V="011,29"/> 
+	<Votos_No_Marcados V="473"/> 
+	<Porc_Votos_No_Marcados V="009,98"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="575"/> 
+				<Porc V="015,42"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="477"/> 
+				<Porc V="012,79"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="466"/> 
+				<Porc V="012,50"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="775"/> 
+				<Votos V="461"/> 
+				<Porc V="012,36"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="006"/> 
+				<Votos V="457"/> 
+				<Porc V="012,25"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="007"/> 
+				<Votos V="448"/> 
+				<Porc V="012,01"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="010"/> 
+				<Votos V="411"/> 
+				<Porc V="011,02"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="3295"/> 
+				<Porc V="088,38"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="433"/> 
+				<Porc V="011,61"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="3728"/> 
+				<Porc V="078,71"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="001"/> 
+				<Votos V="575"/> 
+				<Porc V="015,42"/> 
+				<Partido V="002"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="002"/> 
+				<Votos V="477"/> 
+				<Porc V="012,79"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="006"/> 
+				<Votos V="466"/> 
+				<Porc V="012,50"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="005"/> 
+				<Votos V="461"/> 
+				<Porc V="012,36"/> 
+				<Partido V="775"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="003"/> 
+				<Votos V="457"/> 
+				<Porc V="012,25"/> 
+				<Partido V="006"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="007"/> 
+				<Votos V="448"/> 
+				<Porc V="012,01"/> 
+				<Partido V="007"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6000100"/> 
+				<Candidato V="004"/> 
+				<Votos V="411"/> 
+				<Porc V="011,02"/> 
+				<Partido V="010"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0004"/> 
+	<Boletin V="0003"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="64"/> 
+	<Desc_Departamento V="PUTUMAYO"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="MOCOA"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="20"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="102"/> 
+	<Mesas_Informadas V="102"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="34221"/> 
+	<Total_Sufragantes V="1312"/> 
+	<Porc_Sufragantes V="003,83"/> 
+	<Votos_Nulos V="102"/> 
+	<Porc_Votos_Nulos V="007,77"/> 
+	<Votos_No_Marcados V="204"/> 
+	<Porc_Votos_No_Marcados V="015,54"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="119"/> 
+				<Votos V="351"/> 
+				<Porc V="034,89"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="002"/> 
+				<Votos V="349"/> 
+				<Porc V="034,69"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="700"/> 
+				<Porc V="069,58"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="306"/> 
+				<Porc V="030,41"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="1006"/> 
+				<Porc V="076,67"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="6400100"/> 
+				<Candidato V="002"/> 
+				<Votos V="351"/> 
+				<Porc V="034,89"/> 
+				<Partido V="119"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6400100"/> 
+				<Candidato V="001"/> 
+				<Votos V="349"/> 
+				<Porc V="034,69"/> 
+				<Partido V="002"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6400100"/> 
+				<Candidato V="003"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0007"/> 
+	<Boletin V="0006"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="68"/> 
+	<Desc_Departamento V="VAUPES"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="MITU"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="35"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="48"/> 
+	<Mesas_Informadas V="24"/> 
+	<Porc_Mesas_Informadas V="050,00"/> 
+	<Potencial_Sufragantes V="15227"/> 
+	<Total_Sufragantes V="365"/> 
+	<Porc_Sufragantes V="002,39"/> 
+	<Votos_Nulos V="24"/> 
+	<Porc_Votos_Nulos V="006,57"/> 
+	<Votos_No_Marcados V="48"/> 
+	<Porc_Votos_No_Marcados V="013,15"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="97"/> 
+				<Porc V="033,10"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="73"/> 
+				<Porc V="024,91"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="009"/> 
+				<Votos V="51"/> 
+				<Porc V="017,40"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="221"/> 
+				<Porc V="075,42"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="72"/> 
+				<Porc V="024,57"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="293"/> 
+				<Porc V="080,27"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="6800100"/> 
+				<Candidato V="003"/> 
+				<Votos V="97"/> 
+				<Porc V="033,10"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6800100"/> 
+				<Candidato V="002"/> 
+				<Votos V="73"/> 
+				<Porc V="024,91"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6800100"/> 
+				<Candidato V="001"/> 
+				<Votos V="51"/> 
+				<Porc V="017,40"/> 
+				<Partido V="009"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="6800100"/> 
+				<Candidato V="004"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+<Avance>
+	<Numero V="0006"/> 
+	<Boletin V="0005"/> 
+	<Tipo_Avance V="MUNICIPAL"/> 
+	<Desc_Corporacion V="ALCALDE"/> 
+	<Departamento V="72"/> 
+	<Desc_Departamento V="VICHADA"/> 
+	<Municipio V="001"/> 
+	<Desc_Municipio V="PUERTO CARREÑO"/> 
+	<Comuna V="00"/> 
+	<Desc_Comuna V="NO APLICA"/> 
+	<Dia V="21"/> 
+	<Mes V="10"/> 
+	<Anio V="2015"/> 
+	<Hora V="20"/> 
+	<Minuto V="30"/> 
+	<Seg V="00"/> 
+	<Mesas_Instaladas V="53"/> 
+	<Mesas_Informadas V="53"/> 
+	<Porc_Mesas_Informadas V="100,00"/> 
+	<Potencial_Sufragantes V="16922"/> 
+	<Total_Sufragantes V="1102"/> 
+	<Porc_Sufragantes V="006,51"/> 
+	<Votos_Nulos V="53"/> 
+	<Porc_Votos_Nulos V="004,80"/> 
+	<Votos_No_Marcados V="106"/> 
+	<Porc_Votos_No_Marcados V="009,61"/> 
+<Detalle_Circunscripcion>
+	<lin>
+		<Circunscripcion V="2"/> 
+		<Desc_Circunscripcion V="MUNICIPAL"/> 
+		<Numero_Curules V="1"/> 
+		<Detalle_Partido>
+			<lin>
+				<Partido V="012"/> 
+				<Votos V="180"/> 
+				<Porc V="019,08"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="005"/> 
+				<Votos V="162"/> 
+				<Porc V="017,17"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="004"/> 
+				<Votos V="151"/> 
+				<Porc V="016,01"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="001"/> 
+				<Votos V="150"/> 
+				<Porc V="015,90"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="190"/> 
+				<Votos V="141"/> 
+				<Porc V="014,95"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+			<lin>
+				<Partido V="003"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Pref V="SI"/> 
+				<Curules V="0"/> 
+			</lin>
+		</Detalle_Partido>
+		<Detalle_Partido_Totales>
+			<lin>
+				<Partido V="995"/> 
+				<Descripcion V="VOTOS POR LISTA O PARTIDO"/> 
+				<Votos V="784"/> 
+				<Porc V="083,13"/> 
+			</lin>
+			<lin>
+				<Partido V="996"/> 
+				<Descripcion V="VOTOS EN BLANCO"/> 
+				<Votos V="159"/> 
+				<Porc V="016,86"/> 
+			</lin>
+			<lin>
+				<Partido V="999"/> 
+				<Descripcion V="VOTOS VALIDOS"/> 
+				<Votos V="943"/> 
+				<Porc V="085,57"/> 
+			</lin>
+		</Detalle_Partido_Totales>
+		<Detalle_Candidato>
+			<lin>
+				<Amb_Presen V="7200100"/> 
+				<Candidato V="005"/> 
+				<Votos V="180"/> 
+				<Porc V="019,08"/> 
+				<Partido V="012"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="7200100"/> 
+				<Candidato V="004"/> 
+				<Votos V="162"/> 
+				<Porc V="017,17"/> 
+				<Partido V="005"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="7200100"/> 
+				<Candidato V="003"/> 
+				<Votos V="151"/> 
+				<Porc V="016,01"/> 
+				<Partido V="004"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="7200100"/> 
+				<Candidato V="002"/> 
+				<Votos V="150"/> 
+				<Porc V="015,90"/> 
+				<Partido V="001"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="7200100"/> 
+				<Candidato V="001"/> 
+				<Votos V="141"/> 
+				<Porc V="014,95"/> 
+				<Partido V="190"/> 
+				<Sec V="0"/> 
+			</lin>
+			<lin>
+				<Amb_Presen V="7200100"/> 
+				<Candidato V="006"/> 
+				<Votos V="0"/> 
+				<Porc V="000,00"/> 
+				<Partido V="003"/> 
+				<Sec V="0"/> 
+			</lin>
+		</Detalle_Candidato>
+	</lin>
+</Detalle_Circunscripcion>
+</Avance>
+
+</Consolidado>

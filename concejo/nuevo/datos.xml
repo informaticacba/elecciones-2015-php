@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<departamento>
+  <ATLANTICO>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 2866</mesas>
+      <votantes>1009618 de 1009618</votantes>
+    </datos>
+  </ATLANTICO>
+  <BOLIVAR>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 4348</mesas>
+      <votantes>1481903 de 1481903</votantes>
+    </datos>
+  </BOLIVAR>
+  <CESAR>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 2146</mesas>
+      <votantes>731371 de 731371</votantes>
+    </datos>
+  </CESAR>
+  <CORDOBA>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 3476</mesas>
+      <votantes>1184094 de 1184094</votantes>
+    </datos>
+  </CORDOBA>
+  <MAGDALENA>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 2601</mesas>
+      <votantes>895875 de 895875</votantes>
+    </datos>
+  </MAGDALENA>
+  <SUCRE>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 1973</mesas>
+      <votantes>652213 de 652213</votantes>
+    </datos>
+  </SUCRE>
+  <LA_GUAJIRA>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 1619</mesas>
+      <votantes>551328 de 551328</votantes>
+    </datos>
+  </LA_GUAJIRA>
+  <SAN_ANDRES>
+    <datos>
+      <boletin>0000</boletin>
+      <dia>21-10-2015</dia>
+      <hora>19:19:07</hora>
+      <mesas>0 de 13</mesas>
+      <votantes>4297 de 4297</votantes>
+    </datos>
+  </SAN_ANDRES>
+</departamento>
